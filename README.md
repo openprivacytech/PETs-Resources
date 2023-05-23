@@ -1,1 +1,1 @@
-# Privacy Enhancing Technologies Resources
+# Privacy-Enhancing Technologies Resources
