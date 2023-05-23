@@ -3,3 +3,8 @@
 ## Reports
 
 [THE PET GUIDE	United Nations](https://unstats.un.org/bigdata/task-teams/privacy/guide/2023_UN%20PET%20Guide.pdf) - The United Nations guide on privacy-enhancing technologies for official statistics	
+[From Privacy to Partnership](https://royalsociety.org/-/media/policy/projects/privacy-enhancing-technologies/From-Privacy-to-Partnership.pdf) - The role of privacy enhancing
+technologies in data governance
+and collaborative analysis
+[]() - 
+[]() - 
