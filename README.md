@@ -13,5 +13,5 @@ and limits of Privacy Enhancing Technologies in data analysis
 # Courses
 
 - [Private AI Series](https://courses.openmined.org/) - OpenMined
-
+- [Privacy in Statistics and Machine Learning](https://dpcourse.github.io/)
 
