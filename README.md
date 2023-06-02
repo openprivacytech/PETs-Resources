@@ -16,3 +16,5 @@ and limits of Privacy Enhancing Technologies in data analysis
 - [Privacy in Statistics and Machine Learning](https://dpcourse.github.io/)
 - [Privacy Preserving Machine Learning](http://researchers.lille.inria.fr/abellet/teaching/private_machine_learning_course.html)
 - [Privacy Law and Data Protection](https://www.coursera.org/learn/privacy-law-data-protection) - University Of Pennsylvania
+- [Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html)
+- []()
