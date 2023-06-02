@@ -22,3 +22,4 @@ and limits of Privacy Enhancing Technologies in data analysis
 # Books
 
 - [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - Cynthia Dwork and  Aaron Roth
+- [The Complexity of Differential Privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf) - Salil Vadhan
