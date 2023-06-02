@@ -18,3 +18,7 @@ and limits of Privacy Enhancing Technologies in data analysis
 - [Privacy Law and Data Protection](https://www.coursera.org/learn/privacy-law-data-protection) - University Of Pennsylvania
 - [Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html)
 - [Advanced Deployment Scenarios with TensorFlow](https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow)
+
+# Books
+
+- [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - Cynthia Dwork and  Aaron Roth
