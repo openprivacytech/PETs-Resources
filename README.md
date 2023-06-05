@@ -40,7 +40,7 @@ and limits of Privacy Enhancing Technologies in data analysis
 
 - [Federated Learning (Comic)](https://federated.withgoogle.com/) - Google AI
 - [What is Federated Learning?](https://www.youtube.com/watch?v=X8YYWunttOY) - Google Cloud Tech
-- []()
+- [What Is Federated Learning?](https://www.youtube.com/watch?v=L051wWyRG9E) - The ILO Institute
 - []()
 - []()
 - []()
