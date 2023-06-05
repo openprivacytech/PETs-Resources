@@ -34,3 +34,13 @@ and limits of Privacy Enhancing Technologies in data analysis
 
 - [The Definition of Differential Privacy](https://youtu.be/lg-VhHlztqo) - Cynthia Dwork | Video
 - [A friendly, non-technical introduction to differential privacy](https://desfontain.es/privacy/friendly-intro-to-differential-privacy.html) - Damien Desfontaines | Blog
+
+
+## Federated Learning
+
+- [Federated Learning (Comic)](https://federated.withgoogle.com/) - Google AI
+- []()
+- []()
+- []()
+- []()
+- []()
