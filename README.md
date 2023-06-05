@@ -27,3 +27,9 @@ and limits of Privacy Enhancing Technologies in data analysis
 # Conferences
 
 - [OpenMined Privacy Conference 2020](https://pricon.openmined.org/)
+
+# PETs
+
+## Differential Privacy
+
+- [The Definition of Differential Privacy](https://youtu.be/lg-VhHlztqo) - Cynthia Dwork	
