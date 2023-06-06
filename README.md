@@ -8,7 +8,7 @@ technologies in data governance
 and collaborative analysis
 - [Protecting privacy in practice](https://royalsociety.org/-/media/policy/projects/privacy-enhancing-technologies/Protecting-privacy-in-practice.pdf) - The current use, development
 and limits of Privacy Enhancing Technologies in data analysis
-- []() - 
+
 
 # Courses
 
