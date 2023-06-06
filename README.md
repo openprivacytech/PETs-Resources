@@ -44,3 +44,8 @@ and limits of Privacy Enhancing Technologies in data analysis
 - [Federated Learning: Machine Learning on Decentralized Data](https://www.youtube.com/watch?v=89BGjQYA0uE) - TensorFlow
 - [Federated Learning: A Step by Step Implementation in Tensorflow](https://towardsdatascience.com/federated-learning-a-step-by-step-implementation-in-tensorflow-aac568283399) - Saheed Tijani
 - [A Step-by-Step Guide to Federated Learning in Computer Vision](https://www.v7labs.com/blog/federated-learning-guide) - v7labs
+
+## Homomorphic Encryption
+
+- [What is Homomorphic Encryption?](https://youtu.be/2TVqFGu1vhw) - OpenMined
+- [Homomorphic Encryption Part 1](https://youtu.be/NBO7t_NVvCc) - The Sharp Turtles
