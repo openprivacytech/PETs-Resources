@@ -50,3 +50,12 @@ and limits of Privacy Enhancing Technologies in data analysis
 - [What is Homomorphic Encryption?](https://youtu.be/2TVqFGu1vhw) - OpenMined
 - [Homomorphic Encryption Part 1](https://youtu.be/NBO7t_NVvCc) - The Sharp Turtles
 - [Homomorphic Encryption Part 2](https://youtu.be/Kfwo-S2jZv4) - The Sharp Turtles
+
+## Zero-knowledge Proofs
+
+- [Zero Knowledge Proofs ](https://youtu.be/HUs1bH85X9I) - Computerphile
+- 
+
+
+
+
