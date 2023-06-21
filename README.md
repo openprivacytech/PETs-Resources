@@ -60,4 +60,7 @@ and limits of Privacy Enhancing Technologies in data analysis
 
 # Research Papers
 
+# Others
+
+- [Privacy-Enhancing Technologies](https://mdi.georgetown.edu/privacy-enhancing-technologies/) - Georgetown University
 
